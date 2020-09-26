@@ -1,0 +1,39 @@
+{
+  "merchandisingLoanRetrieveActionTaskReference" : "SRATR795161",
+  "merchandisingLoanRetrieveActionRecord" : {
+    "merchandisingLoanPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "merchandisingLoanActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "merchandisingLoanRetrieveActionResponse" : "merchandisingLoanRetrieveActionResponse",
+  "merchandisingLoanOfferedService" : {
+    "merchandisingLoanServiceRecord" : {
+      "merchandisingLoanServicePoliciesandGuidelines" : {
+        "merchandisingLoanServiceIntendedUses" : "merchandisingLoanServiceIntendedUses",
+        "merchandisingLoanServiceEligibility" : "merchandisingLoanServiceEligibility",
+        "merchandisingLoanServicePricingandTerms" : "merchandisingLoanServicePricingandTerms"
+      },
+      "merchandisingLoanServiceDescription" : "merchandisingLoanServiceDescription",
+      "merchandisingLoanServiceSchedule" : "merchandisingLoanServiceSchedule",
+      "merchandisingLoanServiceVersion" : "merchandisingLoanServiceVersion",
+      "merchandisingLoanServiceType" : "merchandisingLoanServiceType"
+    },
+    "merchandisingLoanServiceReference" : "776158"
+  },
+  "merchandisingLoanRetrieveActionTaskRecord" : {}
+}

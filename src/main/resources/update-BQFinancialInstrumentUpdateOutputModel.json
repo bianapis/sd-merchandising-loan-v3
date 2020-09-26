@@ -1,0 +1,13 @@
+{
+  "financialInstrumentFinancialInstrumentServiceDescription" : "financialInstrumentFinancialInstrumentServiceDescription",
+  "financialInstrumentUpdateActionTaskRecord" : {},
+  "financialInstrumentUpdateActionTaskReference" : "FIUATR767288",
+  "financialInstrumentPreconditions" : "financialInstrumentPreconditions",
+  "updateResponseRecord" : {},
+  "financialInstrumentFeatureSchedule" : "financialInstrumentFeatureSchedule",
+  "financialInstrumentFinancialInstrumentServiceInputsandOuputs" : "financialInstrumentFinancialInstrumentServiceInputsandOuputs",
+  "financialInstrumentFinancialInstrumentServiceWorkProduct" : "financialInstrumentFinancialInstrumentServiceWorkProduct",
+  "financialInstrumentPostconditions" : "financialInstrumentPostconditions",
+  "financialInstrumentFinancialInstrumentServiceType" : "financialInstrumentFinancialInstrumentServiceType",
+  "financialInstrumentFinancialInstrumentServiceName" : "financialInstrumentFinancialInstrumentServiceName"
+}

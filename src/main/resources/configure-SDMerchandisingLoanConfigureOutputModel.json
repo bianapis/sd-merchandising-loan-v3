@@ -1,0 +1,21 @@
+{
+  "merchandisingLoanServiceConfigurationRecord" : {
+    "merchandisingLoanServiceStatus" : "merchandisingLoanServiceStatus",
+    "merchandisingLoanServiceConfigurationSetup" : {
+      "merchandisingLoanServiceConfigurationParameter" : "merchandisingLoanServiceConfigurationParameter"
+    },
+    "merchandisingLoanServiceSubscription" : {
+      "merchandisingLoanServiceSubscriberAccessProfile" : "merchandisingLoanServiceSubscriberAccessProfile",
+      "merchandisingLoanServiceSubscriberReference" : "756221"
+    },
+    "merchandisingLoanServiceAgreement" : {
+      "merchandisingLoanServiceAgreementReference" : "721156",
+      "merchandisingLoanServiceAgreementTermsandConditions" : "merchandisingLoanServiceAgreementTermsandConditions",
+      "merchandisingLoanServiceUserReference" : "733696"
+    },
+    "merchandisingLoanServiceConfigurationSettingDescription" : "merchandisingLoanServiceConfigurationSettingDescription"
+  },
+  "merchandisingLoanConfigurationActionTaskReference" : "SCATR765419",
+  "merchandisingLoanConfigurationActionTaskRecord" : {},
+  "merchandisingLoanServicingSessionStatus" : "merchandisingLoanServicingSessionStatus"
+}

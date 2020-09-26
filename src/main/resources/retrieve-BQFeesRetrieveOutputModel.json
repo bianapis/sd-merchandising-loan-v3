@@ -1,0 +1,25 @@
+{
+  "businessService" : "businessService",
+  "feesServiceWorkProduct" : "feesServiceWorkProduct",
+  "feesInstanceReport" : {
+    "feesInstanceReportType" : "feesInstanceReportType",
+    "feesInstanceReport" : {},
+    "feesInstanceReportParameters" : "feesInstanceReportParameters",
+    "feesInstanceReportRecord" : {}
+  },
+  "feesServiceType" : "feesServiceType",
+  "feesInstanceAnalysis" : {
+    "feesInstanceAnalysisReport" : {},
+    "feesInstanceAnalysisRecord" : {},
+    "feesInstanceAnalysisParameters" : "feesInstanceAnalysisParameters",
+    "feesInstanceAnalysisReportType" : "feesInstanceAnalysisReportType"
+  },
+  "feesRetrieveActionTaskRecord" : {},
+  "feesRetrieveActionResponse" : "feesRetrieveActionResponse",
+  "feesServiceInputsandOuputs" : "feesServiceInputsandOuputs",
+  "feesServiceDescription" : "feesServiceDescription",
+  "feesPostconditions" : "feesPostconditions",
+  "feesPreconditions" : "feesPreconditions",
+  "feesRetrieveActionTaskReference" : "FRATR753233",
+  "feesFeatureSchedule" : "feesFeatureSchedule"
+}

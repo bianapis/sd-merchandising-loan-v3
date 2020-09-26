@@ -1,0 +1,28 @@
+{
+  "merchandisingLoanArrangementJurisdiction" : "merchandisingLoanArrangementJurisdiction",
+  "merchandisingLoanArrangementRetrieveActionResponse" : "merchandisingLoanArrangementRetrieveActionResponse",
+  "merchandisingLoanArrangementInstanceReportRecord" : {
+    "merchandisingLoanArrangementInstanceReportType" : "merchandisingLoanArrangementInstanceReportType",
+    "merchandisingLoanArrangementInstanceReport" : {},
+    "merchandisingLoanArrangementInstanceReportData" : "merchandisingLoanArrangementInstanceReportData"
+  },
+  "merchandisingLoanArrangementInstanceAnalysis" : {
+    "merchandisingLoanArrangementInstanceAnalysisReport" : {},
+    "merchandisingLoanArrangementInstanceAnalysisData" : "merchandisingLoanArrangementInstanceAnalysisData",
+    "merchandisingLoanArrangementInstanceAnalysisReportType" : "merchandisingLoanArrangementInstanceAnalysisReportType"
+  },
+  "merchandisingLoanArrangementSelectedOption" : "merchandisingLoanArrangementSelectedOption",
+  "merchandisingLoanArrangementType" : "merchandisingLoanArrangementType",
+  "merchandisingLoanArrangementBookingLocation" : "merchandisingLoanArrangementBookingLocation",
+  "merchandisingLoanArrangementRetrieveActionTaskRecord" : {},
+  "merchandisingLoanArrangementParameterType" : "merchandisingLoanArrangementParameterType",
+  "merchandisingLoanArrangementRetrieveActionTaskReference" : "MLARATR710287",
+  "merchandisingLoanArrangementSchedule" : "merchandisingLoanArrangementSchedule",
+  "merchandisingLoanArrangementCurrency" : "USD",
+  "merchandisingLoanArrangementRegulationReference" : "MLARR765535",
+  "merchandisingLoanArrangementAccountReference" : "MLAAR722483",
+  "merchandisingLoanArrangementStatus" : "merchandisingLoanArrangementStatus",
+  "merchandisingLoanArrangementRegulationType" : "merchandisingLoanArrangementRegulationType",
+  "merchandisingLoanArrangementAccountType" : "merchandisingLoanArrangementAccountType",
+  "merchandisingLoanArrangementReference" : "MLAR750345"
+}

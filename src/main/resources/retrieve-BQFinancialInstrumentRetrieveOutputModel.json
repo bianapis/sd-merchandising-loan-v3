@@ -1,0 +1,25 @@
+{
+  "financialInstrumentInstanceAnalysis" : {
+    "financialInstrumentInstanceAnalysisReport" : {},
+    "financialInstrumentInstanceAnalysisReportType" : "financialInstrumentInstanceAnalysisReportType",
+    "financialInstrumentInstanceAnalysisParameters" : "financialInstrumentInstanceAnalysisParameters",
+    "financialInstrumentInstanceAnalysisRecord" : {}
+  },
+  "financialInstrumentRetrieveActionResponse" : "financialInstrumentRetrieveActionResponse",
+  "financialInstrumentRetrieveActionTaskReference" : "FIRATR725999",
+  "financialInstrumentFinancialInstrumentServiceWorkProduct" : "financialInstrumentFinancialInstrumentServiceWorkProduct",
+  "financialInstrumentInstanceReport" : {
+    "financialInstrumentInstanceReportRecord" : {},
+    "financialInstrumentInstanceReportType" : "financialInstrumentInstanceReportType",
+    "financialInstrumentInstanceReport" : {},
+    "financialInstrumentInstanceReportParameters" : "financialInstrumentInstanceReportParameters"
+  },
+  "financialInstrumentFinancialInstrumentServiceType" : "financialInstrumentFinancialInstrumentServiceType",
+  "financialInstrumentFinancialInstrumentServiceDescription" : "financialInstrumentFinancialInstrumentServiceDescription",
+  "financialInstrumentRetrieveActionTaskRecord" : {},
+  "financialInstrumentPreconditions" : "financialInstrumentPreconditions",
+  "financialInstrumentFeatureSchedule" : "financialInstrumentFeatureSchedule",
+  "financialInstrumentFinancialInstrumentServiceInputsandOuputs" : "financialInstrumentFinancialInstrumentServiceInputsandOuputs",
+  "financialInstrumentPostconditions" : "financialInstrumentPostconditions",
+  "financialInstrumentFinancialInstrumentServiceName" : "financialInstrumentFinancialInstrumentServiceName"
+}
